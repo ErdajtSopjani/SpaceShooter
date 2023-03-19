@@ -1,5 +1,5 @@
 # SpaceShooter
-A PvP shooter game based in outer space made with python
+A PvP shooter game based on outer space made with python
 
 
 # REQUIREMENTS
