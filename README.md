@@ -13,7 +13,9 @@ The game runs at 144fps
 Player 1 moves with W A S D and shoots with left ctrl
 Player 2 moves with UP LEFT DOWN RIGHT arrow keys and shoots with right ctrl
 
-#HOW TO RUN
+
+# HOW TO RUN
+
 Just download all of the items provided in the repository and run "main.py" with python3.10 or a newer version.
 
 If you have any feedback feel free to reach out.
