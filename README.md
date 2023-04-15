@@ -20,4 +20,6 @@ Player 2 moves with UP LEFT DOWN RIGHT arrow keys and shoots with right ctrl
 
 Just download all of the items provided in the repository and run "main.py" with python3.10 or a newer version.
 
+If you dont have pygame installed you can install it by running "pip install pygame" in the terminal
+
 If you have any feedback feel free to reach out.
