@@ -1,7 +1,7 @@
 # SpaceShooter
 A PvP shooter game based on outer space made with python
 
-![image](https://user-images.githubusercontent.com/120386306/232175311-fede2b90-3f7a-4d6b-b61b-e99746ca3a0c.png)
+![image](https://user-images.githubusercontent.com/120386306/232175311-fede2b90-3f7a-4d6b-b61b-e99746ca3a0c.png) ![image](https://user-images.githubusercontent.com/120386306/232175339-8970dff2-c4b9-447c-b3d6-a09895017fa2.png)
 
 
 # REQUIREMENTS
